@@ -1,1 +1,3 @@
 # timer
+
+Simple pomodoro timer 
